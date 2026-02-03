@@ -1,0 +1,326 @@
+{
+  "total_districts": 641,
+  "total_states": 35,
+  "states": [
+    "ANDAMAN And NICOBAR ISLANDS",
+    "ANDHRA PRADESH",
+    "ARUNACHAL PRADESH",
+    "ASSAM",
+    "BIHAR",
+    "CHANDIGARH",
+    "CHATISGARH",
+    "DADAR NAGAR HAVELI",
+    "DAMAN AND DUI",
+    "DELHI",
+    "GOA",
+    "GUJARAT",
+    "HARYANA",
+    "HIMACHAL",
+    "JAMMU AND KASHMIR",
+    "JHARKHAND",
+    "KARNATAKA",
+    "KERALA",
+    "LAKSHADWEEP",
+    "MADHYA PRADESH",
+    "MAHARASHTRA",
+    "MANIPUR",
+    "MEGHALAYA",
+    "MIZORAM",
+    "NAGALAND",
+    "ORISSA",
+    "PONDICHERRY",
+    "PUNJAB",
+    "RAJASTHAN",
+    "SIKKIM",
+    "TAMIL NADU",
+    "TRIPURA",
+    "UTTAR PRADESH",
+    "UTTARANCHAL",
+    "WEST BENGAL"
+  ],
+  "rainfall_statistics": {
+    "annual": {
+      "mean": 1346.9695787831513,
+      "median": 1116.2,
+      "min": 94.6,
+      "max": 7229.3,
+      "std": 838.2242667309506
+    },
+    "monsoon": {
+      "mean": 1007.8023400936038,
+      "median": 896.6,
+      "min": 39.6,
+      "max": 5228.0,
+      "std": 628.8415191225616
+    }
+  },
+  "top_rainfall_districts": [
+    {
+      "district": "TAMENGLONG",
+      "state": "MANIPUR",
+      "annual_rainfall": 7229.3
+    },
+    {
+      "district": "JAINTIA HILLS",
+      "state": "MEGHALAYA",
+      "annual_rainfall": 6379.9
+    },
+    {
+      "district": "EAST KHASI HI",
+      "state": "MEGHALAYA",
+      "annual_rainfall": 6166.1
+    },
+    {
+      "district": "UPPER SIANG",
+      "state": "ARUNACHAL PRADESH",
+      "annual_rainfall": 4402.1
+    },
+    {
+      "district": "UDUPI",
+      "state": "KARNATAKA",
+      "annual_rainfall": 4306.0
+    }
+  ],
+  "high_risk_districts": [
+    {
+      "district": "TAMENGLONG",
+      "state": "MANIPUR",
+      "annual_rainfall": 7229.3,
+      "monsoon_rainfall": 5228.0
+    },
+    {
+      "district": "JAINTIA HILLS",
+      "state": "MEGHALAYA",
+      "annual_rainfall": 6379.9,
+      "monsoon_rainfall": 4667.5
+    },
+    {
+      "district": "EAST KHASI HI",
+      "state": "MEGHALAYA",
+      "annual_rainfall": 6166.1,
+      "monsoon_rainfall": 4621.8
+    },
+    {
+      "district": "UPPER SIANG",
+      "state": "ARUNACHAL PRADESH",
+      "annual_rainfall": 4402.1,
+      "monsoon_rainfall": 2558.8
+    },
+    {
+      "district": "UDUPI",
+      "state": "KARNATAKA",
+      "annual_rainfall": 4306.0,
+      "monsoon_rainfall": 3759.7
+    },
+    {
+      "district": "EAST SIANG",
+      "state": "ARUNACHAL PRADESH",
+      "annual_rainfall": 4034.7,
+      "monsoon_rainfall": 3008.4
+    },
+    {
+      "district": "DAKSHIN KANDA",
+      "state": "KARNATAKA",
+      "annual_rainfall": 3915.8,
+      "monsoon_rainfall": 3351.6
+    },
+    {
+      "district": "KOKRAJHAR",
+      "state": "ASSAM",
+      "annual_rainfall": 3772.2,
+      "monsoon_rainfall": 2826.4
+    },
+    {
+      "district": "KARIMGANJ",
+      "state": "ASSAM",
+      "annual_rainfall": 3650.8,
+      "monsoon_rainfall": 2147.9
+    },
+    {
+      "district": "W KHASI HILL",
+      "state": "MEGHALAYA",
+      "annual_rainfall": 3643.0,
+      "monsoon_rainfall": 2775.0
+    },
+    {
+      "district": "KASARGOD",
+      "state": "KERALA",
+      "annual_rainfall": 3621.6,
+      "monsoon_rainfall": 3007.5
+    },
+    {
+      "district": "TIRAP",
+      "state": "ARUNACHAL PRADESH",
+      "annual_rainfall": 3571.5,
+      "monsoon_rainfall": 2385.5
+    },
+    {
+      "district": "CHANGLANG",
+      "state": "ARUNACHAL PRADESH",
+      "annual_rainfall": 3543.9,
+      "monsoon_rainfall": 1632.1
+    },
+    {
+      "district": "NORTH GOA",
+      "state": "GOA",
+      "annual_rainfall": 3471.4,
+      "monsoon_rainfall": 3154.9
+    },
+    {
+      "district": "RATNAGIRI",
+      "state": "MAHARASHTRA",
+      "annual_rainfall": 3470.6,
+      "monsoon_rainfall": 3261.5
+    },
+    {
+      "district": "JALPAIGURI",
+      "state": "WEST BENGAL",
+      "annual_rainfall": 3468.3,
+      "monsoon_rainfall": 2757.9
+    },
+    {
+      "district": "COOCH BEHAR",
+      "state": "WEST BENGAL",
+      "annual_rainfall": 3443.7,
+      "monsoon_rainfall": 2737.6
+    },
+    {
+      "district": "WEST KAMENG",
+      "state": "ARUNACHAL PRADESH",
+      "annual_rainfall": 3399.4,
+      "monsoon_rainfall": 2485.2
+    },
+    {
+      "district": "TAWANG(W KAME",
+      "state": "ARUNACHAL PRADESH",
+      "annual_rainfall": 3399.4,
+      "monsoon_rainfall": 2485.2
+    },
+    {
+      "district": "KOZHIKODE",
+      "state": "KERALA",
+      "annual_rainfall": 3384.1,
+      "monsoon_rainfall": 2603.1
+    },
+    {
+      "district": "PAPUM PARE",
+      "state": "ARUNACHAL PRADESH",
+      "annual_rainfall": 3378.2,
+      "monsoon_rainfall": 2245.7
+    },
+    {
+      "district": "CANNUR",
+      "state": "KERALA",
+      "annual_rainfall": 3319.1,
+      "monsoon_rainfall": 2669.0
+    },
+    {
+      "district": "IDUKKI",
+      "state": "KERALA",
+      "annual_rainfall": 3302.5,
+      "monsoon_rainfall": 2276.2
+    },
+    {
+      "district": "RAIGAD",
+      "state": "MAHARASHTRA",
+      "annual_rainfall": 3278.9,
+      "monsoon_rainfall": 3117.7
+    },
+    {
+      "district": "BARPETA",
+      "state": "ASSAM",
+      "annual_rainfall": 3274.6,
+      "monsoon_rainfall": 2441.0
+    },
+    {
+      "district": "BAKSA BARPETA",
+      "state": "ASSAM",
+      "annual_rainfall": 3274.6,
+      "monsoon_rainfall": 2441.0
+    },
+    {
+      "district": "SINDHUDURG",
+      "state": "MAHARASHTRA",
+      "annual_rainfall": 3269.2,
+      "monsoon_rainfall": 3021.8
+    },
+    {
+      "district": "WAYANAD",
+      "state": "KERALA",
+      "annual_rainfall": 3253.1,
+      "monsoon_rainfall": 2632.1
+    },
+    {
+      "district": "CHIRANG(BONGAI",
+      "state": "ASSAM",
+      "annual_rainfall": 3218.7,
+      "monsoon_rainfall": 2296.1
+    },
+    {
+      "district": "BONGAIGAON",
+      "state": "ASSAM",
+      "annual_rainfall": 3218.7,
+      "monsoon_rainfall": 2296.1
+    },
+    {
+      "district": "DARJEELING",
+      "state": "WEST BENGAL",
+      "annual_rainfall": 3118.5,
+      "monsoon_rainfall": 2440.3
+    },
+    {
+      "district": "NORTH SIKKIM",
+      "state": "SIKKIM",
+      "annual_rainfall": 3094.5,
+      "monsoon_rainfall": 1810.3
+    },
+    {
+      "district": "WEST SIKKIM",
+      "state": "SIKKIM",
+      "annual_rainfall": 3094.5,
+      "monsoon_rainfall": 1810.3
+    },
+    {
+      "district": "SOUTH GOA",
+      "state": "GOA",
+      "annual_rainfall": 3085.6,
+      "monsoon_rainfall": 2806.9
+    },
+    {
+      "district": "UTTAR KANNADA",
+      "state": "KARNATAKA",
+      "annual_rainfall": 3070.5,
+      "monsoon_rainfall": 2720.9
+    },
+    {
+      "district": "THRISSUR",
+      "state": "KERALA",
+      "annual_rainfall": 3063.1,
+      "monsoon_rainfall": 2197.5
+    },
+    {
+      "district": "LOHIT",
+      "state": "ARUNACHAL PRADESH",
+      "annual_rainfall": 3043.8,
+      "monsoon_rainfall": 1848.5
+    },
+    {
+      "district": "ANJAW (LOHIT)",
+      "state": "ARUNACHAL PRADESH",
+      "annual_rainfall": 3043.8,
+      "monsoon_rainfall": 1848.5
+    },
+    {
+      "district": "ERNAKULAM",
+      "state": "KERALA",
+      "annual_rainfall": 3029.9,
+      "monsoon_rainfall": 2065.0
+    },
+    {
+      "district": "SOUTH ANDAMAN",
+      "state": "ANDAMAN And NICOBAR ISLANDS",
+      "annual_rainfall": 3015.7,
+      "monsoon_rainfall": 1757.2
+    }
+  ]
+}
