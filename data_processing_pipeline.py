@@ -374,14 +374,14 @@ def main():
     processor.transform_data()
     
     # Save processed data
-    processor.save_output('/home/claude/complete_rainfall_data.json')
+    processor.save_output('./complete_rainfall_data.json')
     
     # Generate and display summary report
     report = processor.generate_summary_report()
     processor.print_summary(report)
     
     # Save summary report
-    with open('/home/claude/summary_report.json', 'w') as f:
+    with open('./summary_report.json', 'w') as f:
         json.dump(report, f, indent=2)
     
     print("\n✨ Processing complete!")
